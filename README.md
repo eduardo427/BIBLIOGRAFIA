@@ -5,7 +5,6 @@ Mi pagina web
 <mera name="descripcion" content="esta es mi primera pagina de html">
 <meta name="keyword" content="mi primera pagina">
 
-<title>edu</title>
 
 </head>
 <body bgcolor="green" text="blue">
