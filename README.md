@@ -13,9 +13,6 @@ Mi pagina web
 <img src="logo.jpg" alt="logo de la pagina"></a>
 
 
-
-
-
 <img src="banner_circulos.png" alt="banner central"></a>
 
  
